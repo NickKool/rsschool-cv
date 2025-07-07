@@ -33,7 +33,24 @@ function multiply(a, b){
 }
 let variables = multiply (2,4);
 console.log (variables)
-```js
+```
 
 ---
+
+## Experience
+
+I have been working as a sales manager in B2B sales for over 4 years. I sold industrial furniture, cable trays, building materials, and a CRM system.
+
+---
+
+## Education
+
+-**Belarusian State University**
+    -Manager-economist
+-**Courses:**
+    -[WEB designer UX/UI](https://drive.google.com/file/d/1mp6S1AH623xbFyq6qi2ANaB1yWKEirfI/view?usp=sharing)
+    -[Dive into JavaScript for Beginners](https://stepik.org/cert/2840774)
+
+---
+
 
