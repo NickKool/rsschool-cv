@@ -53,4 +53,6 @@ I have been working as a sales manager in B2B sales for over 4 years. I sold ind
 
 ---
 
+## English level
 
+**A2**
