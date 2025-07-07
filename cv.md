@@ -25,3 +25,15 @@ Now I work as a sales manager. Where I learned to work with different people and
 
 ---
 
+## Code Examples
+
+```js
+function multiply(a, b){
+ return a * b
+}
+let variables = multiply (2,4);
+console.log (variables)
+```js
+
+---
+
