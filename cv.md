@@ -45,11 +45,11 @@ I have been working as a sales manager in B2B sales for over 4 years. I sold ind
 
 ## Education
 
--**Belarusian State University**
-    -Manager-economist
--**Courses:**
-    -[WEB designer UX/UI](https://drive.google.com/file/d/1mp6S1AH623xbFyq6qi2ANaB1yWKEirfI/view?usp=sharing)
-    -[Dive into JavaScript for Beginners](https://stepik.org/cert/2840774)
+- **Belarusian State University**
+    - Manager-economist
+- **Courses:**
+    - [WEB designer UX/UI](https://drive.google.com/file/d/1mp6S1AH623xbFyq6qi2ANaB1yWKEirfI/view?usp=sharing)
+    - [Dive into JavaScript for Beginners](https://stepik.org/cert/2840774)
 
 ---
 
